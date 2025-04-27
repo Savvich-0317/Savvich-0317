@@ -14,3 +14,4 @@ Doing coding just for fun.
 ### I learn how to do fun with:
 - c#
 - javascript
+- golang
