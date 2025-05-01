@@ -8,7 +8,7 @@ Doing coding just for fun.
 - css
 - html
 - python
-- c++
+- c++ a little
 - godot
 
 ### I learn how to do fun with:
