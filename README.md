@@ -1,5 +1,3 @@
-Hello.
-
-Here is my github page
-
-Programming is fun!
+Hello.  
+  
+proving im not a vibecoder with my garbage here
